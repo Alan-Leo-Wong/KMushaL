@@ -10,13 +10,9 @@
 </p>
 
 <p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KMushaL&layout=compact" />
-</a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KMushaL&layout=compact&hide=html,asp,jupyter%20notebook"" alt="KMushaL" />
 &emsp; 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KMushaL&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-</a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KMushaL&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" alt="KMushaL" />
 </p>
 
 ## Connect with me
