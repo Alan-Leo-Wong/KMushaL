@@ -1,7 +1,8 @@
-### Here is KMushaL 👋
-<!--<h2 align="center">Hi 👋, I'm Alan Wang!</h2>-->
-- :orange_book: Focusing on CG & HPC
-- :running: BAD TIMES MAKE A GOOD MAN
+<!--## Here is KMushaL 👋-->
+<h2 align="center">Hi 👋, I'm Alan Wang, an adventurer in CG!</h2>
+
+- :orange_book: **I'm focusing on CG & HPC**
+- :running: **BAD TIMES MAKE A GOOD MAN!**
 
 ## My skills
 <p align="left">
