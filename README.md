@@ -1,4 +1,5 @@
 ### Here is KMushaL 👋
+<!--<h2 align="center">Hi 👋, I'm Alan Wang!</h2>-->
 - :orange_book: Focusing on CG & HPC
 - :running: BAD TIMES MAKE A GOOD MAN
 
@@ -17,7 +18,7 @@
 
 ## Connect with me
 <p align="left">
-  <a href="leiw1006@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/clouds/100/000000/gmail.png" alt="mail" height="50" width="50" /></a>
+  <a href="mailto:leiw1006@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/clouds/100/000000/gmail.png" alt="mail" height="50" width="50" /></a>
   <a href="https://twitter.com/SEVENTinTalent" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="SEVENTinTalent" height="50" width="50" /></a>
   <a href="https://www.linkedin.com/in/%E7%A3%8A-%E7%8E%8B-000b14286" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="%E7%A3%8A-%E7%8E%8B-000b14286" height="50" width="50" /></a>
 </p>
